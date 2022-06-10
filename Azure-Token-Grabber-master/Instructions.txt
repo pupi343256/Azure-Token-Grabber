@@ -1,0 +1,3 @@
+Run the run.bat first
+You will find more instructions reading the README.md
+If you cant open it, just drag it into an notepad
